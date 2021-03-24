@@ -5,8 +5,8 @@
     	overflow: hidden;
     	background-color: #333;
     	text-align: center;
-
 }
+
 #header li {
 	display: inline-block;
 }
@@ -19,6 +19,8 @@
 }
 #header li a:hover {
     	background-color: #d87878;
+}
+
 #main {
     margin-left: 2em;
     margin-right: 2em;
