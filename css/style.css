@@ -80,7 +80,7 @@ td {
     padding: 1em;
 }
 
-img {
-    display: block;
-    margin: 0 auto;
+div.about img {
+  width: 400px;
+  height: 418px;
 }
